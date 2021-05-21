@@ -1,3 +1,15 @@
-body{
+body {
     background-color: blueviolet;
+}
+
+aside {
+
+    color: black;
+    padding: auto;
+    align-items: center;
+}
+
+#parrafo{
+    background-color: aqua;
+    align-content: center;
 }
